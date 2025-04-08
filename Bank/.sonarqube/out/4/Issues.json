@@ -1,0 +1,99 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "4.11.0.0",
+        "fileVersion": "4.11.0-3.24365.8 (9e9c7c1d)",
+        "semanticVersion": "4.11.0",
+        "language": "es-MX"
+      },
+      "results": [
+        {
+          "ruleId": "S3236",
+          "level": "warning",
+          "message": "Remove this argument from the method call; it hides the caller information.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/HP/Desktop/CALIDAD/lab-2025-i-cps-u1-01-csharp-GregoBHM/Bank/Bank.Domain/Models/BankAccount.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 65,
+                  "endLine": 24,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3236",
+          "level": "warning",
+          "message": "Remove this argument from the method call; it hides the caller information.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/HP/Desktop/CALIDAD/lab-2025-i-cps-u1-01-csharp-GregoBHM/Bank/Bank.Domain/Models/BankAccount.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 79,
+                  "endLine": 17,
+                  "endColumn": 93
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3236",
+          "level": "warning",
+          "message": "Remove this argument from the method call; it hides the caller information.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/HP/Desktop/CALIDAD/lab-2025-i-cps-u1-01-csharp-GregoBHM/Bank/Bank.Domain/Models/BankAccount.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 65,
+                  "endLine": 18,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S3236": {
+          "id": "S3236",
+          "shortDescription": "Caller information arguments should not be provided explicitly",
+          "fullDescription": "Caller information attributes: CallerFilePathAttribute, CallerLineNumberAttribute, and CallerArgumentExpressionAttribute provide a way to get information about the caller of a method through optional parameters. But the arguments for these optional parameters are only generated if they are not explicitly defined in the call. Thus, specifying the argument values defeats the purpose of the attributes.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3236",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

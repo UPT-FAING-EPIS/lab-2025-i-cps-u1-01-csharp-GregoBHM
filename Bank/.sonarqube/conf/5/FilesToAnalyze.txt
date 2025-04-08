@@ -1,0 +1,12 @@
+﻿C:\Users\HP\Desktop\CALIDAD\lab-2025-i-cps-u1-01-csharp-GregoBHM\Bank\Bank.Domain.Tests\BanckAccountTests.cs
+C:\Users\HP\.nuget\packages\microsoft.net.test.sdk\17.13.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\HP\.nuget\packages\microsoft.testplatform.testhost\17.13.0\build\netcoreapp3.1\x64\testhost.exe
+C:\Users\HP\.nuget\packages\microsoft.testplatform.testhost\17.13.0\build\netcoreapp3.1\x64\testhost.dll
+C:\Users\HP\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\HP\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\HP\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\nunit.engine.dll
+C:\Users\HP\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\HP\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\HP\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\HP\Desktop\CALIDAD\lab-2025-i-cps-u1-01-csharp-GregoBHM\Bank\Bank.Domain.Tests\TestResults\0d044cbc-6b12-4170-96e8-13a07d7d6d99\coverage.cobertura.xml
+C:\Users\HP\Desktop\CALIDAD\lab-2025-i-cps-u1-01-csharp-GregoBHM\Bank\Bank.Domain.Tests\TestResults\4558a810-820b-4276-af3b-ca047a87dc21\coverage.opencover.xml

@@ -1,0 +1,7 @@
+organization=gregobhm
+projectKey=gregobhm_apibank
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.61662
+dashboardUrl=https://sonarcloud.io/dashboard?id=gregobhm_apibank
+ceTaskId=AZYXhXZUxYeqW66dRWoj
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZYXhXZUxYeqW66dRWoj

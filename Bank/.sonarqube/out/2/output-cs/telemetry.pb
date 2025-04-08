@@ -1,0 +1,1 @@
+zRdC:\Users\HP\Desktop\CALIDAD\lab-2025-i-cps-u1-01-csharp-GregoBHM\Bank\Bank.Domain\Bank.Domain.csproj¢net8.0òCSharp12
